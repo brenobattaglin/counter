@@ -6,6 +6,9 @@ class CounterApp extends MaterialApp {
   const CounterApp({Key? key}) : super(key: key, home: const CounterPage());
 
   @override
+  bool get debugShowCheckedModeBanner => false;
+
+  @override
   String get title => 'Counter';
 
   @override
