@@ -1,16 +1,20 @@
-# counter
+<div align="center">
+    <h1>counter</h1>
+    <h3>A counter app made with Flutter and Flutter BLoC.</h3>    
+    <img height="650" alt="image" src="https://user-images.githubusercontent.com/8771994/144713085-896b6e20-ff69-4dce-b434-779d33744ac9.png">
+    <br/>
+    <br/>
+</div>
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Open your terminal. On the project root folder.
+2. Download the packages:
+      
+		flutter pub get
+      
+## Run the app
+Using your terminal:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+	flutter run
