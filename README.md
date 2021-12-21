@@ -9,10 +9,9 @@
 
 ## Getting Started
 
-1. Open your terminal. On the project root folder.
-2. Download the packages:
-      
-		flutter pub get
+Open your terminal on the project root folder and download the packages:
+
+	flutter pub get
       
 ## Run the app
 Using your terminal:
