@@ -3,7 +3,7 @@
 A counter app made with Flutter and Flutter BLoC.
 
 <div align="center">
-    <img height="650" alt="image" src="https://user-images.githubusercontent.com/8771994/144713085-896b6e20-ff69-4dce-b434-779d33744ac9.png">
+    <img height="650" alt="image" src="https://user-images.githubusercontent.com/8771994/147012857-e5fe72d0-dd55-4178-96dd-c0510edcdd13.png">
 </div>
 
 ## Getting Started
